@@ -1,0 +1,8 @@
+
+
+MONGO_URL=""
+JWT_KEY="Keep_Secret"
+//go to cloudinary.com for pictures upload platform to get these keys
+CLOUDINARY_CLOUD_NAME=""
+CLOUDINARY_API_KEY=""
+CLOUDINARY_API_SECRET=''
